@@ -1,1 +1,3 @@
 Visual Crossing. (n.d.). Weather Data Services. Retrieved February 21, 2024, from https://www.visualcrossing.com/weather/weather-data-services
+
+https://fred.stlouisfed.org/series/IY111
